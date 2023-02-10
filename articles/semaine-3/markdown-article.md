@@ -52,7 +52,33 @@ D'ailleurs, cette article a été écrit avec une extension de config que j'ai p
 ## Magit
 
 
+### Qu'est ce que Magit
 
+
+Magit est un outil Git, puissant de contrôle de version de fichiers Git. Il est intégré dans Elpa comme package disponible pour tous. Magit propose au programmeur utilisant Git dans Emacs une interface conviviale lui permettant d'effectuer les commandes Git habituellement fait en ligne de commande en quelque touches seulement. Il est à noter qu'il faut un mettre un peu de temps pour comprendre le fonctionnement de l'outil et la façon d'y naviguer, cependant l'apprentissage en vaut la peine. Voici à quoi ressemble le menu Magit accessible par **ctrl-x g** (ctrl-x pour commande et g pour git surement?) : 
+
+![ss-magit-menu](https://git.dti.crosemont.quebec/slys/public-md-files/-/raw/main/src/images/emacs-ss-magit-menu.png)
+
+### Quelques fonctionnalités possibles: 
+
+- b, commandes de branches. ex: b, b - permet a l'utilisateur de créer se diriger vers une autre branche ).
+- c, commandes sur les commits.
+- F, recupérer des branches, depot distants.
+- l, voir des logs de commits et le contenu changer depuis son commits parents.
+- h, permet de d'obtenir de l'aide on ouvrant la documentation Magit
+- et encore plus comme illuster ci-haut 
+
+Les options sont donc beaucoup, mais reste très accessibles. On peut parfois remarquer des noms de commandes Git dont on ne connaissait même pas l'existant.
+
+### Essai de l'option -l ( log )
+
+En appuyant sur la touche -l dans le menu Magit, j'ai pus avoir accès à un log des commits de ma branche actuelle, soit le main. Chaque commit peut être séléctionné en y plaçant le curseur et cliquantsur la touche retour / enter. Magit m'offre alors des d'informations généraux sur le commit séléctionné comme l'auteur, la date et l'heure de création du commit, puis son commit parent. Magit propose aussi une vue plutôt très pertinente qui montre la **différence** dans les fichiers entre le commit actuel et le commit parent. Il est à noter que les zones grise *@@ -0,0 _1,25 @@* peuvent être tabulé, ce qui par conséquence nous permet une lecture plus agréable des changements les plus importants effectués dans un commit. 
+
+Voici à quoi ressemble la sortie de l'option: 
+
+![ss-magit-log](https://git.dti.crosemont.quebec/slys/public-md-files/-/raw/main/src/images/emacs-ss-magit-log.png)
+
+Magit n'est donc vraiment pas l'outil a sous-estimer dans Emacs. 
 ## Documentation
 
 ## Salutation
@@ -61,4 +87,4 @@ Merci d'avoir pris le temps de lire la veille technologique de cette semaine. On
 
 Cordialement,
 
-Snely
+	Snely
