@@ -51,11 +51,9 @@ D'ailleurs, cette article a été écrit avec une extension de config que j'ai p
 
 ## Magit
 
-
 ### Qu'est ce que Magit
 
-
-Magit est un outil Git, puissant de contrôle de version de fichiers Git. Il est intégré dans Elpa comme package disponible pour tous. Magit propose au programmeur utilisant Git dans Emacs une interface conviviale lui permettant d'effectuer les commandes Git habituellement fait en ligne de commande en quelque touches seulement. Il est à noter qu'il faut un mettre un peu de temps pour comprendre le fonctionnement de l'outil et la façon d'y naviguer, cependant l'apprentissage en vaut la peine. Voici à quoi ressemble le menu Magit accessible par **ctrl-x g** (ctrl-x pour commande et g pour git surement?) : 
+Magit est un outil Git, puissant de contrôle de version de fichiers Git. Il est intégré dans Elpa comme package disponible pour tous. Magit propose au programmeur utilisant Git dans Emacs une interface conviviale lui permettant d'effectuer les commandes Git habituellement fait en ligne de commande en quelque touches clavier seulement. Il est à noter qu'il faut un mettre un peu de temps pour comprendre le fonctionnement de l'outil et la façon d'y naviguer, cependant l'apprentissage en vaut la peine. Voici à quoi ressemble le menu Magit accessible par **ctrl-x g** une fois l'outil installé (ctrl-x pour commande et g pour git surement?) : 
 
 ![ss-magit-menu](https://git.dti.crosemont.quebec/slys/public-md-files/-/raw/main/src/images/emacs-ss-magit-menu.png)
 
@@ -79,7 +77,22 @@ Voici à quoi ressemble la sortie de l'option:
 ![ss-magit-log](https://git.dti.crosemont.quebec/slys/public-md-files/-/raw/main/src/images/emacs-ss-magit-log.png)
 
 Magit n'est donc vraiment pas l'outil a sous-estimer dans Emacs. 
+
+![logo-magit](https://camo.githubusercontent.com/573230f2779860f1dce05fa3780eb9789aa3dc86a682dfcd88dd147c060b5a9e/68747470733a2f2f6d616769742e76632f6173736574732f6d616769742d3136387832303070782e706e67)
+
 ## Documentation
+
+M-x emacs-reddit • r/emacs. (2008, 6 mai). reddit. Consulté le 7 février 2023, à l’adresse https://www.reddit.com/r/emacs/
+
+Stavrou, P. (2023, 7 février). Modus Themes. Protesilaos Stavrou. Consulté le 8 février 2023, à l’adresse https://protesilaos.com/emacs/modus-themes
+
+System Crafters. (2022, 11 juin). Style Your Emacs with the Modus Themes. YouTube. Consulté le 9 février 2023, à l’adresse https://www.youtube.com/watch?v=JJPokfFxyFo&feature=youtu.be
+
+3 Getting Started | Emacs Docs. (s. d.). Emacs Doc. Consulté le 9 février 2023, à l’adresse https://emacsdocs.org/docs/magit/Getting-Started
+
+System Crafters. (2021, 29 juin). An Introduction to the Ultimate Git Interface, Magit ! YouTube.  Consulté le 9 février 2023, à l’adresse https://www.youtube.com/watch?v=_zfvQkJsYwI
+
+A. (2022, 23 novembre). Générateur de sources | Faire une bibliographie. Scribbr. Consulté le 10 février 2023, à l’adresse https://www.scribbr.fr/references/generateur/
 
 ## Salutation
 
@@ -87,4 +100,4 @@ Merci d'avoir pris le temps de lire la veille technologique de cette semaine. On
 
 Cordialement,
 
-	Snely
+Snely
