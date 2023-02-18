@@ -8,7 +8,7 @@ L'installation est très simple. Dirigez vous dans votre fichier de configuraion
 
 ![edt-org-mode](https://git.dti.crosemont.quebec/slys/public-md-files/-/raw/main/src/images/org-modern.png) 
 
-** Ce que je trouve les plus intéressants de l'exemple:
+** Le plus intéressant pour moi:
 
 *** Niveau hiéarchique
 
@@ -33,7 +33,9 @@ Pour ce qui sont des blocks de code et des tableaux, je me verrais moins les uti
 
 ** Voilà pour aujourd'hui
 
-Merci d'avoir lu mon article. Org-mode dans Emacs est un outil qui promet énormément selon la communauté Emacs. Ce n'est pas un outil limité au programmeur. C'est plutôt un outil qui offre un grand avantage à celui qui écrit beaucoup au clavier, pour l'école ou le travail. En effet, Org-mode permet de faire d'écrire des textes, faire des listes de priorités et tâches, écrire du code ou même bâtir des tableaux et tout ça sans déplacer la souris une seule fois. 
+Merci d'avoir lu mon article. Org-mode dans Emacs est un outil ultra populaire dans la communauté de GNU Emacs. Ce n'est pas un outil limité au programmeur. C'est plutôt un outil qui offre un grand avantage à celui qui écrit beaucoup au clavier, pour l'école, le travail ou simplement l'organisation. En effet, Org-mode permet de faire d'écrire des textes, faire des listes de priorités et tâches, écrire du code ou même bâtir des tableaux et tout ça sans déplacer la souris une seule fois. 
 
 ** Documentation
-
+1. Wikipedia contributors. (2023, 30 janvier). Org-mode. Wikipedia. Consulté le 17 février 2023, à l’adresse [https://en.wikipedia.org/wiki/Org-mode](https://en.wikipedia.org/wiki/Org-mode)
+2. Daniel Mendler [GitHub] - minad/org-modern : Modern Org Style. GitHub. Consulté le 17 février 2023, à l’adresse [https://github.com/minad/org-modern](https://github.com/minad/org-modern)
+3. Harry Schwartz [Thoughtbot]. (2016, 27 avril). Getting Started With Org Mode [Vidéo]. YouTube. Consulté le 17 février 2023, à l’adresse [https://www.youtube.com/watch?v=SzA2YODtgK4](https://www.youtube.com/watch?v=SzA2YODtgK4)
