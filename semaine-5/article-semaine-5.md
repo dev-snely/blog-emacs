@@ -23,7 +23,7 @@ En plus de la navigation, Dired est capable d'effectuer plusieurs autres tâches
 
 Pour en savoir plus, consulter [la documentation officielle sur Dired](https://www.gnu.org/software/emacs/manual/html_node/emacs/Dired.html) 
 
-## Ivy + Swiper, l'outil de navigation dans le fichier
+## Ivy + Swiper, le package qui trouve les termes que vous cherchez
 [Swiper](https://github.com/abo-abo/swiper) est un outil de recherche de texte pour Emacs qui permet de rechercher rapidement des chaînes de caractères ou si vous voulez, des "Strings" dans un fichier. Swiper utilise Ivy pour naviguer rapidement entre les correspondances de recherche dans un fichier selon la chaîne de caractère demandé. Lorsque vous utilisez Swiper, Ivy affiche une liste déroulante avec les correspondances de recherche, ce qui permet de naviguer facilement entre les résultats trouvé. La liste déroulante est illustré ci-bas. *Grosso modo*, si vous avez déjà utilisé Visual studio code, il y a un outil GUI clickable avec un logo de loupe. C'est ce principe qu'utilise Emacs, mais dix fois plus clair.
 
 Pour utiliser Ivy avec Swiper, vous devez d'abord activer Ivy en tapant M-x ivy-mode. Ensuite, lorsque vous utilisez Swiper (C-s) pour rechercher du texte, Ivy affichera une liste déroulante avec les correspondances de recherche. Vous pouvez naviguer dans cette liste à l'aide des touches fléchées (up, down) ou des touches (C-p pour previous, C-n pour next) et appuyer sur Entrée pour ouvrir le fichier à l'emplacement correspondant.
@@ -34,10 +34,13 @@ Vous pouvez regarder [une démo Youtube d'une dizaine de minute résumant Ivy, S
 
 ## Documentation
 
-1. 
+1. Emacs Tw. GitHub - emacs-tw/awesome-emacs : A community driven list of useful Emacs packages, libraries and other items. GitHub. Consulté le 24 février 2023, à l'adresse [https://github.com/emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs)
+2. abo-abo. GitHub - abo-abo/swiper : Ivy - a generic completion frontend for Emacs, Swiper - isearch with an overview, and more. Oh, man ! GitHub. Consulté le 24 février 2023, à l’adresse [https://github.com/abo-abo/swiper](https://github.com/abo-abo/swiper)
+3. Dired (GNU Emacs Manual). (s. d.). Consulté le 24 février 2023, à l’adresse [https://www.gnu.org/software/emacs/manual/html_node/emacs/Dired.html](https://www.gnu.org/software/emacs/manual/html_node/emacs/Dired.html)
+4. abo-abo. (2015, 17 avril). swiper screencast [Vidéo]. YouTube. Consulté le 24 février 2023, à l’adresse [https://www.youtube.com/watch?v=VvnJQpTFVDc](https://www.youtube.com/watch?v=VvnJQpTFVDc)
 
 ## Conclusion 
-Voilà, Ivy est une extension très utile pour Emacs qui aide vraiment à rendre la navigation dans les fichiers et les répertoires plus intuitive. J'espère que vous en ferai bon usage dans votre propre utilisation d'Emacs.
+Voilà qui conclu, Ivy est une extension très utile pour Emacs qui aide vraiment à rendre la navigation dans les fichiers et les répertoires plus intuitive. Un débutant Emacs qui utilise Dired & Swiper avec Ivy, je pense peux passer un meilleur temps dans l'éditeur de texte. J'espère que vous en ferai bon usage dans votre propre utilisation d'Emacs.
 
 Merci d'avoir pris le temps de lire.
 
