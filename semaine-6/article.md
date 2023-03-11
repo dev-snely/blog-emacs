@@ -16,16 +16,12 @@ GNU Emacs est un éditeur de texte libre et open source. Il est connu pour sa gr
 ## La collaboration et la contribution : des éléments clés de GNU Emacs
 
 L'un des principaux avantages de GNU Emacs est sa communauté active et collaborative. Cette communauté contribue constamment au développement d'Emacs, en ajoutant de nouvelles fonctionnalités, en corrigeant des bugs et en améliorant les performances. Les utilisateurs peuvent également contribuer en soumettant des rapports de bug, en aidant à la documentation ou en créant des extensions pour Emacs. Cette collaboration est un élément clé de la philosophie du logiciel libre et contribue grandement à l'efficacité d'Emacs.
-La sécurité et la confidentialité : des avantages clés du logiciel libre
 
-Un autre avantage important du logiciel libre est sa sécurité et sa confidentialité. Étant donné que le code source est accessible à tous, il peut être examiné et audité par des tiers. Cela permet de détecter et de corriger rapidement les failles de sécurité. En outre, étant donné que le logiciel est libre, il n'y a pas de risque de dépendance envers un seul fournisseur et les utilisateurs peuvent contrôler leurs propres données et informations. Cela renforce la sécurité et la confidentialité des utilisateurs.
+## La sécurité et la confidentialité : des avantages clés du logiciel libre
 
-Les quatre principes de liberté dans la philosophie du logiciel libre peuvent être présentés sous forme de liste non-ordonnée comme suit :
+Un autre avantage important du logiciel libre est sa sécurité et sa confidentialité. Étant donné que le code source est accessible à tous, il peut être examiné et validé par des tiers. Cela permet de détecter et de corriger rapidement les failles de sécurité. En outre, étant donné que le logiciel est libre, il n'y a pas de risque de dépendance envers un seul fournisseur et les utilisateurs peuvent contrôler leurs propres données et informations. Cela renforce la sécurité et la confidentialité des utilisateurs. 
 
-    La liberté d'exécuter le programme comme on le souhaite, pour n'importe quel usage.
-    La liberté d'étudier le fonctionnement du programme et de l'adapter à ses besoins.
-    La liberté de redistribuer des copies du programme afin d'aider d'autres personnes.
-    La liberté d'améliorer le programme et de publier ces améliorations, pour en faire profiter toute la communauté.
+C'est pour cela chers lecteurs que je vous conseille d'utiliser Emacs, non pas seulement comme éditeur de texte, mais comme votre machine de production principale.
 
 
 ## Documentation
