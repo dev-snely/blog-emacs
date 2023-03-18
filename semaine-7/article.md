@@ -33,7 +33,7 @@ Elfeed présente les articles sous forme de liste, avec des informations telles 
 
 ## Pour ajouter un URL dans votre fil de contenu
 
-Une fois Elfeed installé et activé, vous pouvez ajouter des flux RSS ou Atom à votre liste d'articles. La plus simple façon d'ajouter est d'utiliser la commande elfeed-add-feed, accessible en appuyant sur la **touche a ** dans la vue principale et non le mini-tampon. L'action ouvre une nouvelle fenêtre où vous pouvez saisir l'URL du flux que vous souhaitez ajouter. 
+Une fois Elfeed installé et activé, vous pouvez ajouter des flux RSS ou Atom à votre liste d'articles. La plus simple façon est d'utiliser la commande elfeed-add-feed, accessible en tapant **Alt-X (M-x)** dans la vue principale. L'action ouvre une nouvelle fenêtre où vous pouvez saisir l'URL du flux que vous souhaitez ajouter. 
 
 Plusieurs sites web possèdent un espace *blog* dans lequel des auteurs écrivent des article. Ces sites web offrent une page où se trouve les flux RSS. 
 
@@ -60,7 +60,11 @@ Elfeed est un package Emacs pratique pour suivre l'actualité en ligne directeme
 
 ## Documentation
 
+1. S. (s. d.). GitHub - skeeto/elfeed : An Emacs web feeds client. GitHub. Consulté le 17 mars 2023, à l’adresse [https://github.com/skeeto/elfeed](https://github.com/skeeto/elfeed)
 
+2. Le Journal de Montréal. (s. d.). RSS | Le Journal de Montréal. Le Journal de Montréal. Consulté le 17 mars 2023, à l’adresse [https://www.journaldemontreal.com/rss](https://www.journaldemontreal.com/rss)
+
+3. Protesilaos Stavrou. (2020, 9 juin). Emacs : ELFEED demo [Vidéo]. YouTube. Consulté le 17 mars 2023, à l’adresse [https://www.youtube.com/watch?v=oHfAht9uTx8](https://www.youtube.com/watch?v=oHfAht9uTx8)
 
 ## Salutations
 
